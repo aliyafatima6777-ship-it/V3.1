@@ -1,0 +1,64 @@
+# ==============================
+# Discord Bot
+# ==============================
+DISCORD_TOKEN=MTUzNDg4NTAwMzE1Mjk4MjEzMg.G8sJE7.IBu0mZDkHFwQoLsy1uAgbwJ-nfvrTEbLs_3JXo
+
+BOT_NAME=MineCloud
+MAIN_ADMIN_ID=1496086186291363851
+VPS_USER_ROLE_ID=1534154574238056488
+
+# ==============================
+# LXC
+# ==============================
+DEFAULT_STORAGE_POOL=default
+
+# ==============================
+# VPS Deploy
+# ==============================
+DEPLOY_ROLE_ID=0
+DEPLOY_RAM=16
+DEPLOY_CPU=3
+DEPLOY_DISK=80
+
+VPS_DEPLOY_LIMIT=2
+DEPLOY_SLOT=0
+
+# ==============================
+# VPS Expiration
+# ==============================
+DEFAULT_VPS_EXPIRATION_DAYS=30
+EXPIRATION_WARNING_DAYS=1
+
+# ==============================
+# Animation
+# ==============================
+BOT_ANIM_DELAY=0.30
+
+# ==============================
+# Invite
+# ==============================
+INVITE_MIN_ACCOUNT_AGE_DAYS=7
+
+# ==============================
+# Web Access
+# ==============================
+WEB_ACCESS_BASE_URL=
+WEB_ACCESS_SECRET=
+WEB_ACCESS_TTL_MINUTES=15
+
+# ==============================
+# Optional Panels
+# ==============================
+PROXMOX_FILE_MANAGER_BASE_URL=
+PROXMOX_CONSOLE_BASE_URL=
+CPANEL_BASE_URL=
+
+# ==============================
+# Bot Info
+# ==============================
+BOT_VERSION=8.0-PRO
+BOT_DEVELOPER=lahis_g
+BOT_CREATOR=lahis_g
+BOT_LOGO_PATH=minecloud_logo.png
+BOT_THUMBNAIL_URL=https://i.imgur.com/Tv3clt0.jpeg
+BOT_ICON_URL=https://i.imgur.com/Tv3clt0.jpeg
